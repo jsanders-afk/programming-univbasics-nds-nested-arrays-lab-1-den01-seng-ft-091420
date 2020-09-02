@@ -32,7 +32,7 @@ def sorted_matrix
     ORGANIC_PRODUCE.sort
    ]
 end
-binding.pry
+
 def matrix_lookup(matrix, row, column)
 end
 
