@@ -23,7 +23,7 @@ def assembled_matrix
     ORGANIC_PRODUCE
     ]
 end
-
+binding.pry
 
 def sorted_matrix
  [
